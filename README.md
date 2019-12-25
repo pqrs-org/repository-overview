@@ -9,6 +9,7 @@
 -   Karabiner-Elements complex_modifications rules
     -   <https://github.com/pqrs-org/KE-complex_modifications>
     -   [![Build Status](https://github.com/pqrs-org/KE-complex_modifications/workflows/KE-complex_modifications%20CI/badge.svg)](https://github.com/pqrs-org/KE-complex_modifications/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/KE-complex_modifications/blob/master/LICENSE.md)
 -   Karabiner-VirtualHIDDevice
     -   <https://github.com/pqrs-org/Karabiner-VirtualHIDDevice>
     -   [![Build Status](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice.svg?branch=master)](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice)
