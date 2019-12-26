@@ -19,6 +19,12 @@
     -   [![Build Status](https://github.com/pqrs-org/ShowyEdge/workflows/ShowyEdge%20CI/badge.svg)](https://github.com/pqrs-org/ShowyEdge/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/ShowyEdge/blob/master/LICENSE.md)
 
+## Add-ons for Thunderbird
+
+-   Disable DragAndDrop
+    -   <https://github.com/pqrs-org/disable-draganddrop-tb>
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/tekezo/disable_dnd_tb/blob/master/LICENSE.md)
+
 ## C++ libraries
 
 -   cpp-dispatcher
