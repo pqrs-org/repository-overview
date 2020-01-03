@@ -165,6 +165,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_value>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_value/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_value/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_value/blob/master/LICENSE.md)
+-   cpp-osx-iokit_iterator
+    -   <https://github.com/pqrs-org/cpp-osx-iokit_iterator>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_iterator/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_iterator/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_iterator/blob/master/LICENSE.md)
 -   cpp-osx-iokit_object_ptr
     -   <https://github.com/pqrs-org/cpp-osx-iokit_object_ptr>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_object_ptr/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_object_ptr/actions)
