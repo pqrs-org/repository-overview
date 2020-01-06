@@ -106,6 +106,10 @@
     -   <https://github.com/pqrs-org/cpp-cf-run_loop_thread>
     -   [![Build Status](https://github.com/pqrs-org/cpp-cf-run_loop_thread/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-run_loop_thread/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-cf-run_loop_thread/blob/master/LICENSE.md)
+-   cpp-cf-set
+    -   <https://github.com/pqrs-org/cpp-cf-set>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-cf-set/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-set/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-cf-set/blob/master/LICENSE.md)
 -   cpp-cf-string
     -   <https://github.com/pqrs-org/cpp-cf-string>
     -   [![Build Status](https://github.com/pqrs-org/cpp-cf-string/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-string/actions)
