@@ -98,6 +98,10 @@
     -   <https://github.com/pqrs-org/cpp-cf-dictionary>
     -   [![Build Status](https://github.com/pqrs-org/cpp-cf-dictionary/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-dictionary/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-cf-dictionary/blob/master/LICENSE.md)
+-   cpp-cf-json
+    -   <https://github.com/pqrs-org/cpp-cf-json>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-cf-json/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-json/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-cf-json/blob/master/LICENSE.md)
 -   cpp-cf-number
     -   <https://github.com/pqrs-org/cpp-cf-number>
     -   [![Build Status](https://github.com/pqrs-org/cpp-cf-number/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-cf-number/actions)
