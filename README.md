@@ -19,6 +19,16 @@
     -   [![Build Status](https://github.com/pqrs-org/ShowyEdge/workflows/ShowyEdge%20CI/badge.svg)](https://github.com/pqrs-org/ShowyEdge/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/ShowyEdge/blob/master/LICENSE.md)
 
+## macOS tools
+
+-   osx-event-observer-examples
+    -   <https://github.com/pqrs-org/osx-event-observer-examples>
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/osx-event-observer-examples/blob/master/LICENSE.md)
+-   osx-hid-inspector
+    -   <https://github.com/pqrs-org/osx-hid-inspector>
+    -   [![Build Status](https://github.com/pqrs-org/osx-hid-inspector/workflows/CI/badge.svg)](https://github.com/pqrs-org/osx-hid-inspector/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/osx-hid-inspector/blob/master/LICENSE.md)
+
 ## Add-ons for Thunderbird
 
 -   Disable DragAndDrop
