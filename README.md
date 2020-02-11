@@ -18,6 +18,10 @@
     -   <https://github.com/pqrs-org/ShowyEdge>
     -   [![Build Status](https://github.com/pqrs-org/ShowyEdge/workflows/ShowyEdge%20CI/badge.svg)](https://github.com/pqrs-org/ShowyEdge/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/ShowyEdge/blob/master/LICENSE.md)
+-   Tinkle
+    -   <https://github.com/pqrs-org/Tinkle>
+    -   [![Build Status](https://github.com/pqrs-org/Tinkle/workflows/CI/badge.svg)](https://github.com/pqrs-org/Tinkle/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Tinkle/blob/master/LICENSE.md)
 
 ## macOS tools
 
@@ -252,3 +256,7 @@
 
 -   pqrs.org
     -   <https://github.com/pqrs-org/pqrs.org>
+-   showyedge.pqrs.org
+    -   <https://github.com/pqrs-org/gh-pages-showyedge.pqrs.org>
+-   tinkle.pqrs.org
+    -   <https://github.com/pqrs-org/gh-pages-tinkle.pqrs.org>
