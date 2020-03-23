@@ -37,7 +37,25 @@
 
 -   Disable DragAndDrop
     -   <https://github.com/pqrs-org/disable-draganddrop-tb>
-    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/tekezo/disable_dnd_tb/blob/master/LICENSE.md)
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/disable-draganddrop-tb/blob/master/LICENSE.md)
+
+## Game Boy Advance Games
+
+-   BulletGBA
+    -   <https://github.com/pqrs-org/BulletGBA>
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/BulletGBA/blob/master/LICENSE.md)
+-   Vulkanon
+    -   <https://github.com/pqrs-org/Vulkanon>
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Vulkanon/blob/master/LICENSE.md)
+
+## Emulators for Dreamcast
+
+-   dcgnuboy
+    -   <https://github.com/pqrs-org/dcgnuboy>
+    -   ![License](https://img.shields.io/badge/license-GPL%20v2-blue.svg)
+-   NesterDC
+    -   <https://github.com/pqrs-org/NesterDC>
+    -   ![License](https://img.shields.io/badge/license-GPL%20v2-blue.svg)
 
 ## C++ libraries
 
@@ -256,14 +274,24 @@
 
 -   pqrs.org
     -   <https://github.com/pqrs-org/pqrs.org>
+-   appcast.pqrs.org
+    -   <https://github.com/pqrs-org/appcast.pqrs.org>
 -   GitHub Pages
+    -   bulletgba.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-bulletgba.pqrs.org>
+    -   dcgnuboy.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-dcgnuboy.pqrs.org>
     -   disable-draganddrop-tb.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-disable-draganddrop-tb.pqrs.org>
     -   karabiner-elements.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org>
     -   ke-complex-modifications.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-ke-complex-modifications.pqrs.org>
+    -   nesterdc.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-nesterdc.pqrs.org>
     -   showyedge.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-showyedge.pqrs.org>
     -   tinkle.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-tinkle.pqrs.org>
+    -   vulkanon.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-vulkanon.pqrs.org>
