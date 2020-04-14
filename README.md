@@ -201,6 +201,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_queue_value_monitor>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_queue_value_monitor/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_queue_value_monitor/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_queue_value_monitor/blob/master/LICENSE.md)
+-   cpp-osx-iokit_hid_system
+    -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_system>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_system/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_system/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_system/blob/master/LICENSE.md)
 -   cpp-osx-iokit_hid_value
     -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_value>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_value/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_value/actions)
