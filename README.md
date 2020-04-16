@@ -79,6 +79,10 @@
     -   <https://github.com/pqrs-org/cpp-hash>
     -   [![Build Status](https://github.com/pqrs-org/cpp-hash/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-hash/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-hash/blob/master/LICENSE.md)
+-   cpp-hid
+    -   <https://github.com/pqrs-org/cpp-hid>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-hid/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-hid/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-hid/blob/master/LICENSE.md)
 -   cpp-json
     -   <https://github.com/pqrs-org/cpp-json>
     -   [![Build Status](https://github.com/pqrs-org/cpp-json/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-json/actions)
