@@ -260,6 +260,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-os_kext_return>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-os_kext_return/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-os_kext_return/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-os_kext_return/blob/master/LICENSE.md)
+-   cpp-osx-process_info
+    -   <https://github.com/pqrs-org/cpp-osx-process_info>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-process_info/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-process_info/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-process_info/blob/master/LICENSE.md)
 -   cpp-osx-session
     -   <https://github.com/pqrs-org/cpp-osx-session>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-session/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-session/actions)
