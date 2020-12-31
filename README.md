@@ -204,6 +204,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_element>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_element/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_element/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_element/blob/master/LICENSE.md)
+-   cpp-osx-iokit_hid_event_system_client
+    -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_event_system_client/>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_event_system_client//workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_event_system_client//actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_event_system_client//blob/master/LICENSE.md)
 -   cpp-osx-iokit_hid_manager
     -   <https://github.com/pqrs-org/cpp-osx-iokit_hid_manager>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_manager/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_manager/actions)
