@@ -164,6 +164,10 @@
 
 ### macOS
 
+-   cpp-osx-cg_event
+    -   <https://github.com/pqrs-org/cpp-osx-cg_event>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-cg_event/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-cg_event/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-cg_event/blob/master/LICENSE.md)
 -   cpp-osx-chrono
     -   <https://github.com/pqrs-org/cpp-osx-chrono>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-chrono/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-chrono/actions)
