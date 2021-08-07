@@ -16,7 +16,7 @@
 -   Karabiner-VirtualHIDDevice
     -   <https://github.com/pqrs-org/Karabiner-VirtualHIDDevice>
     -   [![Build Status](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice.svg?branch=master)](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice)
-        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Karabiner-VirtualHIDDevice/blob/main/LICENSE.md)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Karabiner-VirtualHIDDevice/blob/master/LICENSE.md)
 -   ShowyEdge
     -   <https://github.com/pqrs-org/ShowyEdge>
     -   [![Build Status](https://github.com/pqrs-org/ShowyEdge/workflows/ShowyEdge%20CI/badge.svg)](https://github.com/pqrs-org/ShowyEdge/actions)
