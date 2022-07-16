@@ -12,7 +12,8 @@
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/KE-complex_modifications/blob/main/LICENSE.md)
 -   Karabiner-DriverKit-VirtualHIDDevice
     -   <https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice>
-    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/blob/main/LICENSE.md)
+    -   [![Build Status](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/workflows/CI/badge.svg)](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/blob/main/LICENSE.md)
 -   Karabiner-VirtualHIDDevice
     -   <https://github.com/pqrs-org/Karabiner-VirtualHIDDevice>
     -   [![Build Status](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice.svg?branch=master)](https://travis-ci.org/pqrs-org/Karabiner-VirtualHIDDevice)
