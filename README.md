@@ -26,6 +26,10 @@
     -   <https://github.com/pqrs-org/Tinkle>
     -   [![Build Status](https://github.com/pqrs-org/Tinkle/workflows/CI/badge.svg)](https://github.com/pqrs-org/Tinkle/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Tinkle/blob/main/LICENSE.md)
+-   TrueWidget
+    -   <https://github.com/pqrs-org/TrueWidget>
+    -   [![Build Status](https://github.com/pqrs-org/TrueWidget/workflows/CI/badge.svg)](https://github.com/pqrs-org/TrueWidget/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/TrueWidget/blob/main/LICENSE.md)
 
 ## macOS tools
 
@@ -329,5 +333,7 @@
         -   <https://github.com/pqrs-org/gh-pages-showyedge.pqrs.org>
     -   tinkle.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-tinkle.pqrs.org>
+    -   truewidget.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-truewidget.pqrs.org>
     -   vulkanon.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-vulkanon.pqrs.org>
