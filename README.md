@@ -28,7 +28,7 @@
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/Tinkle/blob/main/LICENSE.md)
 -   TrueWidget
     -   <https://github.com/pqrs-org/TrueWidget>
-    -   [![Build Status](https://github.com/pqrs-org/TrueWidget/workflows/CI/badge.svg)](https://github.com/pqrs-org/TrueWidget/actions)
+    -   [![Build Status](https://github.com/pqrs-org/TrueWidget/workflows/TrueWidget%20CI/badge.svg)](https://github.com/pqrs-org/TrueWidget/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/TrueWidget/blob/main/LICENSE.md)
 
 ## macOS tools
