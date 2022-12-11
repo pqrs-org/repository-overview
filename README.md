@@ -297,6 +297,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-system_preferences_monitor>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-system_preferences_monitor/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-system_preferences_monitor/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-system_preferences_monitor/blob/main/LICENSE.md)
+-   cpp-osx-workspace
+    -   <https://github.com/pqrs-org/cpp-osx-workspace>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-workspace/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-workspace/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-workspace/blob/main/LICENSE.md)
 
 ## Objective-C library
 
