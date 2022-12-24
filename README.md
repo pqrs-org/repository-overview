@@ -273,6 +273,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-kern_return>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-kern_return/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-kern_return/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-kern_return/blob/main/LICENSE.md)
+-   cpp-osx-launch_services
+    -   <https://github.com/pqrs-org/cpp-osx-launch_services>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-launch_services/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-launch_services/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-launch_services/blob/main/LICENSE.md)
 -   cpp-osx-launchctl
     -   <https://github.com/pqrs-org/cpp-osx-launchctl>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-launchctl/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-launchctl/actions)
