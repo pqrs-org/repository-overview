@@ -10,6 +10,10 @@
     -   <https://github.com/pqrs-org/KE-complex_modifications>
     -   [![Build Status](https://github.com/pqrs-org/KE-complex_modifications/workflows/KE-complex_modifications%20CI/badge.svg)](https://github.com/pqrs-org/KE-complex_modifications/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/KE-complex_modifications/blob/main/LICENSE.md)
+-   Scripts for generating Karabiner-Elements complex_modifications rules
+    -   <https://github.com/pqrs-org/KE-complex_modifications-core>
+    -   [![Build Status](https://github.com/pqrs-org/KE-complex_modifications-core/workflows/KE-complex_modifications-core%20CI/badge.svg)](https://github.com/pqrs-org/KE-complex_modifications-core/actions)
+        [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/KE-complex_modifications-core/blob/main/LICENSE.md)
 -   Karabiner-DriverKit-VirtualHIDDevice
     -   <https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice>
     -   [![Build Status](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/workflows/CI/badge.svg)](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice/actions)
@@ -353,3 +357,18 @@
         -   <https://github.com/pqrs-org/gh-pages-truewidget.pqrs.org>
     -   vulkanon.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-vulkanon.pqrs.org>
+
+## Archived
+
+-   AXAlert
+    -   <https://github.com/pqrs-org/AXAlert>
+-   Karabiner-archived
+    -   <https://github.com/pqrs-org/Karabiner-archived>
+-   Karabiner-VirtualHIDDevice-archived
+    -   <https://github.com/pqrs-org/Karabiner-VirtualHIDDevice-archived>
+-   NoEjectDelay
+    -   <https://github.com/pqrs-org/NoEjectDelay>
+-   pqrs.org-old
+    -   <https://github.com/pqrs-org/pqrs.org-old>
+-   Seil
+    -   <https://github.com/pqrs-org/Seil>
