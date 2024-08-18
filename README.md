@@ -41,6 +41,12 @@
     -   [![Build Status](https://github.com/pqrs-org/osx-hid-inspector/workflows/CI/badge.svg)](https://github.com/pqrs-org/osx-hid-inspector/actions)
         [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/osx-hid-inspector/blob/main/LICENSE.md)
 
+## Hardwares
+
+-   ComboStick
+    -   <https://github.com/pqrs-org/ComboStick>
+    -   [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/ComboStick/blob/main/LICENSE.md)
+
 ## Add-ons for Thunderbird
 
 -   Disable DragAndDrop
@@ -289,6 +295,10 @@
     -   <https://github.com/pqrs-org/cpp-osx-launchctl>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-launchctl/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-launchctl/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-launchctl/blob/main/LICENSE.md)
+-   cpp-osx-machine
+    -   <https://github.com/pqrs-org/cpp-osx-machine>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-osx-machine/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-machine/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-machine/blob/main/LICENSE.md)
 -   cpp-osx-os_kext_return
     -   <https://github.com/pqrs-org/cpp-osx-os_kext_return>
     -   [![Build Status](https://github.com/pqrs-org/cpp-osx-os_kext_return/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-os_kext_return/actions)
@@ -335,6 +345,8 @@
 -   GitHub Pages
     -   bulletgba.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-bulletgba.pqrs.org>
+    -   combostick.pqrs.org
+        -   <https://github.com/pqrs-org/gh-pages-combostick.pqrs.org>
     -   dcgnuboy.pqrs.org
         -   <https://github.com/pqrs-org/gh-pages-dcgnuboy.pqrs.org>
     -   disable-draganddrop-tb.pqrs.org
