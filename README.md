@@ -342,29 +342,29 @@
     -   <https://github.com/pqrs-org/pqrs.org>
 -   appcast.pqrs.org
     -   <https://github.com/pqrs-org/appcast.pqrs.org>
--   GitHub Pages
+-   Build results of the `pqrs-org/pqrs.org`
     -   bulletgba.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-bulletgba.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-bulletgba.pqrs.org>
     -   combostick.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-combostick.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-combostick.pqrs.org>
     -   dcgnuboy.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-dcgnuboy.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-dcgnuboy.pqrs.org>
     -   disable-draganddrop-tb.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-disable-draganddrop-tb.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-disable-draganddrop-tb.pqrs.org>
     -   karabiner-elements.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-karabiner-elements.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-karabiner-elements.pqrs.org>
     -   ke-complex-modifications.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-ke-complex-modifications.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-ke-complex-modifications.pqrs.org>
     -   nesterdc.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-nesterdc.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-nesterdc.pqrs.org>
     -   showyedge.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-showyedge.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-showyedge.pqrs.org>
     -   tinkle.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-tinkle.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-tinkle.pqrs.org>
     -   truewidget.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-truewidget.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-truewidget.pqrs.org>
     -   vulkanon.pqrs.org
-        -   <https://github.com/pqrs-org/gh-pages-vulkanon.pqrs.org>
+        -   <https://github.com/pqrs-org/sites-vulkanon.pqrs.org>
 
 ## Archived
 
