@@ -113,6 +113,10 @@
     -   <https://github.com/pqrs-org/cpp-process>
     -   [![Build Status](https://github.com/pqrs-org/cpp-process/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-process/actions)
         [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-process/blob/main/LICENSE.md)
+-   cpp-regex
+    -   <https://github.com/pqrs-org/cpp-regex>
+    -   [![Build Status](https://github.com/pqrs-org/cpp-regex/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-regex/actions)
+        [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-regex/blob/main/LICENSE.md)
 -   cpp-shell
     -   <https://github.com/pqrs-org/cpp-shell>
     -   [![Build Status](https://github.com/pqrs-org/cpp-shell/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-shell/actions)
