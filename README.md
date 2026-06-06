@@ -140,6 +140,10 @@
     - <https://github.com/pqrs-org/cpp-thread_wait>
     - [![Build Status](https://github.com/pqrs-org/cpp-thread_wait/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-thread_wait/actions)
       [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-thread_wait/blob/main/LICENSE.md)
+- cpp-unix_domain_stream
+    - <https://github.com/pqrs-org/cpp-unix_domain_stream>
+    - [![Build Status](https://github.com/pqrs-org/cpp-unix_domain_stream/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-unix_domain_stream/actions)
+      [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-unix_domain_stream/blob/main/LICENSE.md)
 
 ### Core Foundation
 
