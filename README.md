@@ -206,6 +206,10 @@
     - <https://github.com/pqrs-org/cpp-osx-cg_event>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-cg_event/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-cg_event/actions)
       [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-cg_event/blob/main/LICENSE.md)
+- cpp-osx-cg_event_tap
+    - <https://github.com/pqrs-org/cpp-osx-cg_event_tap>
+    - [![Build Status](https://github.com/pqrs-org/cpp-osx-cg_event_tap/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-cg_event_tap/actions)
+      [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-cg_event_tap/blob/main/LICENSE.md)
 - cpp-osx-chrono
     - <https://github.com/pqrs-org/cpp-osx-chrono>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-chrono/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-chrono/actions)
@@ -326,6 +330,10 @@
     - <https://github.com/pqrs-org/cpp-osx-os_kext_return>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-os_kext_return/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-os_kext_return/actions)
       [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-os_kext_return/blob/main/LICENSE.md)
+- cpp-osx-process_codesign_monitor
+    - <https://github.com/pqrs-org/cpp-osx-process_codesign_monitor>
+    - [![Build Status](https://github.com/pqrs-org/cpp-osx-process_codesign_monitor/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-process_codesign_monitor/actions)
+      [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-process_codesign_monitor/blob/main/LICENSE.md)
 - cpp-osx-process_info
     - <https://github.com/pqrs-org/cpp-osx-process_info>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-process_info/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-process_info/actions)
