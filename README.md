@@ -56,6 +56,12 @@
     - <https://github.com/pqrs-org/disable-draganddrop-tb>
     - [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/disable-draganddrop-tb/blob/main/LICENSE.md)
 
+## Google Chrome Extensions
+
+- chrome-dev-sideboard
+    - <https://github.com/pqrs-org/chrome-dev-sideboard>
+    - [![License](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://github.com/pqrs-org/chrome-dev-sideboard/blob/main/LICENSE.md)
+
 ## Game Boy Advance Games
 
 - BulletGBA
@@ -246,6 +252,10 @@
     - <https://github.com/pqrs-org/cpp-osx-iokit_hid_device>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_device/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_device/actions)
       [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_device/blob/main/LICENSE.md)
+- cpp-osx-iokit_hid_device_events_monitor
+    - <https://github.com/pqrs-org/cpp-osx-iokit_hid_device_events_monitor>
+    - [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_device_events_monitor/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_device_events_monitor/actions)
+      [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_device_events_monitor/blob/main/LICENSE.md)
 - cpp-osx-iokit_hid_device_open_checker
     - <https://github.com/pqrs-org/cpp-osx-iokit_hid_device_open_checker>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-iokit_hid_device_open_checker/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-iokit_hid_device_open_checker/actions)
@@ -354,6 +364,10 @@
     - <https://github.com/pqrs-org/cpp-osx-workspace>
     - [![Build Status](https://github.com/pqrs-org/cpp-osx-workspace/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-workspace/actions)
       [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-workspace/blob/main/LICENSE.md)
+- cpp-osx-xpc
+    - <https://github.com/pqrs-org/cpp-osx-xpc>
+    - [![Build Status](https://github.com/pqrs-org/cpp-osx-xpc/workflows/CI/badge.svg)](https://github.com/pqrs-org/cpp-osx-xpc/actions)
+      [![License](https://img.shields.io/badge/license-Boost%20Software%20License-blue.svg)](https://github.com/pqrs-org/cpp-osx-xpc/blob/main/LICENSE.md)
 
 ## Objective-C library
 
